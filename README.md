@@ -4,7 +4,8 @@ Buatlah sebuah situs sederhana untuk menampilkan daftar kontak dan menambahkan k
 
 ![demo](src/Screen%20Shot%202022-09-22%20at%2011.11.36.png)
 
-### Ketentuan:
+## Ketentuan
+
 1. Gunakan data yang sudah disediakan dari `data/contacts.json` sebagai initial state dengan nama `contacts` di komponen `App.js`
 1. Judul dan tagline **TIDAK BOLEH DIUBAH**
     * Judul: `Call a Friend`
